@@ -106,7 +106,7 @@ const ground = {
   h: 112,
   x: 0,
   y: canvas.height - 112,
-  dx: 1,
+  dx: 2,
 
   draw: function () {
     c.drawImage(
